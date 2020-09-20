@@ -8,5 +8,5 @@ POSTGRES_DB = "blog"
 SMTP_TLS = True
 SMTP_PORT = 587
 SMTP_USER = "expressmarket.noreply@gmail.com"
-SMTP_PASSWORD = "$expressmarket12$"
+SMTP_PASSWORD = "passoword"
 SMTP_HOST = "smtp.gmail.com"
